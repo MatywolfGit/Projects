@@ -1,1 +1,4 @@
-# Projects
+# Coffee-shop-priskalkulator
+Så når eg lagde dette prosjektet, så tenkte eg først på å lage lister for de forskjellige kaffe typene og størrelsene istedenfor å legge de til en input for hver type osv. Eg fant ut senere at det ville ha vørt best til å integrere en feil calue system, og det tok litt research før eg fant ut at det ville ha vært best til å lage det som en funksjon isedenfor variabler. For Take away og skriften, så var det ingen funksjoner, mest inputs og print. selve koden kan være litt buggy dessverre pga noen funkjsons feil (hviser alle values i listen av en eller an grunn), men det viktigste for meg er at den funker selv om ikke på det beste. 
+
+* vil også si i fra at eg har ikke dokumentert selve teksten pga siden du forstår det mest av parten, men eg kan forklare og gå gjennom med deb i person hvis det trengs.
